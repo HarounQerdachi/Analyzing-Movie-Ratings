@@ -37,6 +37,6 @@ Here are some key findings from my analysis (please see the Jupyter Notebook or 
 - `visualizations/`: Visualizations generated during EDA.
 
 ## Acknowledgments
-- Thanks to [The Devastator](https://www.kaggle.com/thedevastator) for providing the [Dataset](https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022/code?select=Best+Movies+Netflix.csv)
+- Thanks to [The Devastator](https://www.kaggle.com/thedevastator) for providing the [Dataset](https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022/code?select=Best+Movies+Netflix.csv).
 
 By Haroun Qerdachi
