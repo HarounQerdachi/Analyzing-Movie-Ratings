@@ -39,4 +39,4 @@ Here are some key findings from my analysis (please see the Jupyter Notebook or 
 ## Acknowledgments
 - Thanks to [The Devastator](https://www.kaggle.com/thedevastator) for providing the [Dataset](https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022?select=Best+Movies+Netflix.csv).
 
-By Haroun Qerdachi
+By Haroun Qerdachi 
